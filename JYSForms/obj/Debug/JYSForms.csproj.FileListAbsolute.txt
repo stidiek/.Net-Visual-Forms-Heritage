@@ -1,0 +1,10 @@
+E:\Desarrollo\JYS\JYSForms\JYSForms\bin\Debug\JYSForms.exe.config
+E:\Desarrollo\JYS\JYSForms\JYSForms\bin\Debug\JYSForms.exe
+E:\Desarrollo\JYS\JYSForms\JYSForms\bin\Debug\JYSForms.pdb
+E:\Desarrollo\JYS\JYSForms\JYSForms\obj\Debug\JYSForms.BaseForm.resources
+E:\Desarrollo\JYS\JYSForms\JYSForms\obj\Debug\JYSForms.Properties.Resources.resources
+E:\Desarrollo\JYS\JYSForms\JYSForms\obj\Debug\JYSForms.csproj.GenerateResource.Cache
+E:\Desarrollo\JYS\JYSForms\JYSForms\obj\Debug\JYSForms.exe
+E:\Desarrollo\JYS\JYSForms\JYSForms\obj\Debug\JYSForms.pdb
+E:\Desarrollo\JYS\JYSForms\JYSForms\obj\Debug\JYSForms.DetailsForm.resources
+E:\Desarrollo\JYS\JYSForms\JYSForms\obj\Debug\JYSForms.DialogResultButtons.resources
